@@ -5,9 +5,11 @@ body{
     background-size: cover;
 }
 h1{
+    text-align: center;
+    font-size: 70px;
 color: rgb(223, 182, 129);
 }
-li{
+li{text-align: right;
 color: rgb(219, 182, 79);
 }
 a{
