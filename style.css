@@ -16,3 +16,14 @@ color: rgb(219, 182, 79);
 a{
     color: aliceblue;
 }
+.boatao{
+    background-color: aqua
+    cornflowerblue
+    border:none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transtiton:background-color 0.3s ease;
+}
+.boatao:hover{
+    background-color: black;
+}
